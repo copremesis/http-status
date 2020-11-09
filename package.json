@@ -1,0 +1,14 @@
+{
+  "name": "http-status",
+  "version": "1.0.0",
+  "description": "tewst url status before loading",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
